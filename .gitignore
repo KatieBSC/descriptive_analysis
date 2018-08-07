@@ -2,3 +2,4 @@
 data/zip.train
 data/zip.test
 .DS_Store
+.ipynb_checkpoints/Descriptive Analysis Notebook-checkpoint.ipynb
